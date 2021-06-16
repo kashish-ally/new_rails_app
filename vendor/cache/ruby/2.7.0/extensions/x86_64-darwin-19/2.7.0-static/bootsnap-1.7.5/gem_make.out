@@ -1,0 +1,15 @@
+current directory: /Users/kashishthakran/rails-apps/new_rails_app/vendor/cache/ruby/2.7.0/gems/bootsnap-1.7.5/ext/bootsnap
+/Users/kashishthakran/.rubies/ruby-2.7.2/bin/ruby -I /Users/kashishthakran/.rubies/ruby-2.7.2/lib/ruby/site_ruby/2.7.0 -r ./siteconf20210614-47005-11pwurn.rb extconf.rb
+creating Makefile
+
+current directory: /Users/kashishthakran/rails-apps/new_rails_app/vendor/cache/ruby/2.7.0/gems/bootsnap-1.7.5/ext/bootsnap
+make DESTDIR\= clean
+
+current directory: /Users/kashishthakran/rails-apps/new_rails_app/vendor/cache/ruby/2.7.0/gems/bootsnap-1.7.5/ext/bootsnap
+make DESTDIR\=
+compiling bootsnap.c
+linking shared-object bootsnap/bootsnap.bundle
+
+current directory: /Users/kashishthakran/rails-apps/new_rails_app/vendor/cache/ruby/2.7.0/gems/bootsnap-1.7.5/ext/bootsnap
+make DESTDIR\= install
+/usr/bin/install -c -m 0755 bootsnap.bundle ./.gem.20210614-47005-18e3rnl/bootsnap
